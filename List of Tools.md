@@ -10,3 +10,8 @@
 - Maik’s Pentest Template in OneNote: https://maikthulhu.github.io/2017-11-20-onenote-layout
 - James Hall Cherry Tree Template: https://411hall.github.io/assets/files/CTF_template.ctb
 - Whoisflynn OSCP Report Template: https://github.com/whoisflynn/OSCP-Exam-Report-Template
+## Screenshot Tools
+- Kazam (In Kali): https://launchpad.net/kazam
+- Shutter: https://shutter-project.org/
+- Flameshot https://github.com/flameshot-org/flameshot
+- Greenshot https://getgreenshot.org/
