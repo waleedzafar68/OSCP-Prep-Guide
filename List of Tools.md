@@ -46,3 +46,7 @@ Most tools are from tjnull's OSCP blog with some personal additions.
 - Gobuster: https://github.com/OJ/gobuster
 - Wfuzz: https://github.com/xmendez/wfuzz
 - ffuf: https://github.com/ffuf/ffuf
+- SQLmap: https://github.com/sqlmapproject/sqlmap/wiki/Usag
+- NoSQLMap: https://github.com/codingo/NoSQLMap
+- Nikto: https://cirt.net/Nikto2
+- HTTPIe: https://httpie.io/
