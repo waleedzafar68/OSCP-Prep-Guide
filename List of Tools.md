@@ -29,3 +29,8 @@
 - Finding Security Headers on websites: https://securityheaders.com/
 - Domaintools: http://whois.domaintools.com/
 - MX Toolbox: https://mxtoolbox.com/DNSLookup.aspx
+## OSINT and Social Media Tools
+- OSINT Framework: https://osintframework.com/
+- Social Searcher: https://www.social-searcher.com/
+- twofi for Twitter: https://digi.ninja/projects/twofi.php
+- Linkedin Username Seach: https://github.com/initstring/linkedin2username
