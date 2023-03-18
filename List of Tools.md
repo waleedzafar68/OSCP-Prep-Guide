@@ -15,3 +15,17 @@
 - Shutter: https://shutter-project.org/
 - Flameshot https://github.com/flameshot-org/flameshot
 - Greenshot https://getgreenshot.org/
+## Passive Recon
+- Shodan: https://www.shodan.io/
+- Shodan Guide: https://leanpub.com/shodan
+- Shodan CLI: https://cli.shodan.io/
+- theharvester: https://github.com/laramies/theharvester
+- Infoga: https://github.com/m4ll0k/Infoga
+- recon-ng: https://bitbucket.org/LaNMaSteR53/recon-ng/overview
+- Google Hacking Database: https://www.exploit-db.com/google-hacking-database
+- SANS Google Dork Cheatsheet: https://www.sans.org/security-resources/GoogleCheatSheet.pdf
+- Netcraft: https://netcraft.com/
+- OWASP Secure Headers Project: https://owasp.org/www-project-secure-headers/
+- Finding Security Headers on websites: https://securityheaders.com/
+- Domaintools: http://whois.domaintools.com/
+- MX Toolbox: https://mxtoolbox.com/DNSLookup.aspx
