@@ -34,3 +34,14 @@
 - Social Searcher: https://www.social-searcher.com/
 - twofi for Twitter: https://digi.ninja/projects/twofi.php
 - Linkedin Username Seach: https://github.com/initstring/linkedin2username
+## Active Recon Tools
+- Dnsrecon Created by Darkoperator: https://github.com/darkoperator/dnsrecon
+## Vulnerability Scanners
+- Nessus: https://www.tenable.com/products/nessus/nessus-essentials
+## Web Attack Tools
+- DIRB: http://dirb.sourceforge.net/
+- Dirsearch: https://github.com/maurosoria/dirsearch
+- Dirbuster: https://tools.kali.org/web-applications/dirbuster
+- Gobuster: https://github.com/OJ/gobuster
+- Wfuzz: https://github.com/xmendez/wfuzz
+- ffuf: https://github.com/ffuf/ffuf
