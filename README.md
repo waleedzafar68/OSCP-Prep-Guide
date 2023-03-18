@@ -90,6 +90,10 @@ Please complete both of the following modules for Linux Basics. Both are free of
 
 ## Bash Scripting plus example Tool creation as assignment
 
+https://betterdev.blog/minimal-safe-bash-script-template/
+
+https://github.com/ralish/bash-script-template
+
 [https://tryhackme.com/room/bashscripting](https://tryhackme.com/room/bashscripting)
 
 [https://academy.hackthebox.com/module/details/21](https://academy.hackthebox.com/module/details/21)
