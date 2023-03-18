@@ -1,4 +1,5 @@
 # Links of Tools (Credit to [tjnull](https://github.com/tjnull))
+Most tools are from tjnull's OSCP blog with some personal additions.
 ## Notetaking Tools
 - Joplin: https://github.com/laurent22/joplin (`sudo apt install joplin` in **Kali Linux**)
 - CherryTree: https://github.com/giuspen/cherrytree
