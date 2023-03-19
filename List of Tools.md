@@ -125,4 +125,7 @@ Most tools are from tjnull's OSCP blog with some personal additions.
 - g0tmi1k's Linux PrivEsc Guide: https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 - GTFOBins: https://gtfobins.github.io/
 - PayloadsAllTheThings Linux Priv Esc Guide: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md
-   
+## Linux Privilege Escalation Tools
+- LinEnum: https://github.com/rebootuser/LinEnum
+- Linux Exploit Suggester 2: https://github.com/jondonas/linux-exploit-suggester-2
+- LinPEAS: [https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
