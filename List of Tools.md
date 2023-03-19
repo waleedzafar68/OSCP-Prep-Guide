@@ -69,3 +69,12 @@ Most tools are from tjnull's OSCP blog with some personal additions.
 - Python 2 FTP Server with anonymous login: `python2 -m pyftpdlib -p 21 -w`
 - Python 3 FTP Server with anonymous login: `python3 -m pyftpdlib -p 21 -w`
 - Simple HTTP Server with Upload capabilities: https://github.com/tjnull/OSCP-Stuff/blob/master/Transferring-Files/HTTPServerWithUpload.py
+## Windows File Transfer Tools
+- Powershell
+- bitsadmin: https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/bitsadmin-examples
+- robocopy: https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy
+- certutil: https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/certutil
+## Other Transfer Tools
+-  wget
+-  Updog: https://github.com/sc0tfree/updog
+-  Pwndrop: https://github.com/kgretzky/pwndrop
