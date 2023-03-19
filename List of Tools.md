@@ -50,3 +50,11 @@ Most tools are from tjnull's OSCP blog with some personal additions.
 - NoSQLMap: https://github.com/codingo/NoSQLMap
 - Nikto: https://cirt.net/Nikto2
 - HTTPIe: https://httpie.io/
+## HTA Attack Tools
+- Demiguise: https://github.com/nccgroup/demiguise
+- WeirdHTA: https://github.com/felamos/weirdhta
+- SharpShooter: https://github.com/mdsecactivebreach/SharpShooter
+## MS Office Attack Tools
+- MSFVenom Vbscript Injections: https://www.offensive-security.com/metasploit-unleashed/vbscript-infection-methods/
+- Macropack: https://github.com/sevagas/macro_pack
+- EvilClippy: https://github.com/outflanknl/EvilClippy
