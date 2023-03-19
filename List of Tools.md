@@ -78,3 +78,51 @@ Most tools are from tjnull's OSCP blog with some personal additions.
 -  wget: Already Installed
 -  Updog: https://github.com/sc0tfree/updog
 -  Pwndrop: https://github.com/kgretzky/pwndrop
+## Antivirus Evasion Tools
+- Veil-Framework: https://github.com/Veil-Framework/Veil
+- Shellter: https://www.shellterproject.com/
+- Unicorn https://github.com/trustedsec/unicorn
+- UniByAV: https://github.com/Mr-Un1k0d3r/UniByAv
+## Obfuscation Tools
+### PowerShell
+- Invoke-Obfuscation: https://github.com/danielbohannon/Invoke-Obfuscation
+- Chimera: https://github.com/tokyoneon/Chimera
+### Python
+- Pyarmor: https://pypi.org/project/pyarmor/
+- PyObfx: https://github.com/PyObfx/PyObfx
+### C#
+- ConfuserEx: https://github.com/yck1509/ConfuserEx
+## Payload Testers
+- Nodistribute: https://nodistribute.com/
+- Virustotal: https://www.virustotal.com/gui/home
+- Hybrid-Analysis: https://www.hybrid-analysis.com/
+- Any-Run: https://app.any.run
+- Reverse.it: https://reverse.it
+- Anti-Virus Evasion Tool: https://github.com/govolution/avet
+- DefenderCheck: https://github.com/matterpreter/DefenderCheck
+- ThreatCheck: https://github.com/rasta-mouse/ThreatCheck
+## Windows Privilege Escalation Guides
+- Fuzzysecurity Windows Privilege Escalation Fundamentals: http://www.fuzzysecurity.com/tutorials/16.html
+- Pwnwiki Windows Privilege Escalation Commands: http://pwnwiki.io/#!privesc/windows/index.md
+- Absolomb’s Security Blog: Windows Privilege Escalation Guide https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
+- Pentest.blog: Windows Privilege Escalation Methods for Pentesters https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
+- PayloadAllTheThings: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
+- SharpAllTheThings: https://github.com/N7WEra/SharpAllTheThings
+- LOLBAS (Created by Oddvar Moe): https://lolbas-project.github.io/
+## Windows Privilege Escalation Tools
+- JAWS (Created by 411Hall): https://github.com/411Hall/JAWS/commits?author=411Hall
+- Windows Exploit Suggester Next Generation: https://github.com/bitsadmin/wesng
+- Sherlock (Created by RastaMouse): https://github.com/rasta-mouse/Sherlock
+- WinPeas: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS
+- Watson: https://github.com/rasta-mouse/Watson
+- Seatbelt: https://github.com/GhostPack/Seatbelt
+- Powerless: https://github.com/M4ximuss/Powerless
+- Powerview: https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon
+### Token Manipulation
+- Rotten Potato: https://github.com/breenmachine/RottenPotatoNG
+- Juicy Potato: https://github.com/ohpe/juicy-potato
+## Linux Privilege Escalation Guides
+- g0tmi1k's Linux PrivEsc Guide: https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+- GTFOBins: https://gtfobins.github.io/
+- PayloadsAllTheThings Linux Priv Esc Guide: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md
+   
