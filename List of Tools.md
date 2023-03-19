@@ -58,3 +58,14 @@ Most tools are from tjnull's OSCP blog with some personal additions.
 - MSFVenom Vbscript Injections: https://www.offensive-security.com/metasploit-unleashed/vbscript-infection-methods/
 - Macropack: https://github.com/sevagas/macro_pack
 - EvilClippy: https://github.com/outflanknl/EvilClippy
+## Exploit Databases
+- Exploit DB: https://www.exploit-db.com/
+- PacketStorm Security: https://packetstormsecurity.com/files/tags/exploit/
+- Security Focus: https://www.securityfocus.com/
+- BugTraq: https://bugtraq.securityfocus.com/
+## Pyhton Servers for File Transfers
+- Python 2 Webserver: `python2 -m SimpleHTTPServer 80`
+- Python 3 Webserver: `python3 -m SimpleHTTPServer 80`
+- Python 2 FTP Server with anonymous login: `python2 -m pyftpdlib -p 21 -w`
+- Python 3 FTP Server with anonymous login: `python3 -m pyftpdlib -p 21 -w`
+- Simple HTTP Server with Upload capabilities: https://github.com/tjnull/OSCP-Stuff/blob/master/Transferring-Files/HTTPServerWithUpload.py
