@@ -150,3 +150,23 @@ Most tools are from tjnull's OSCP blog with some personal additions.
 - In Kali: /usr/share/wordlists
 - Seclists: apt-get install seclists You can find all of his password lists here: https://github.com/danielmiessler/SecLists/tree/master/Passwords
 - Xajkep Wordlists: https://github.com/xajkep/wordlists
+## Online Password Crackers
+- https://hashkiller.io/
+- https://www.cmd5.org/
+- https://www.onlinehashcrack.com/
+- https://gpuhash.me/
+- https://crackstation.net/
+- https://passwordrecovery.io/
+- https://md5decrypt.net/en/
+- https://hashes.com/en/decrypt/hash
+- http://cracker.offensive-security.com/
+## Tools for Port Forwarding and Pivoting:
+- Proxychains: https://github.com/haad/proxychains
+- Proxychains-ng: https://github.com/rofl0r/proxychains-ng
+- SSHuttle (Totally Recommend learning this): https://github.com/sshuttle/sshuttle
+- SSHuttle Documentation: https://sshuttle.readthedocs.io/en/stable/
+- Chisel https://github.com/jpillora/chisel
+- Ligolo: https://github.com/sysdream/ligolo
+## Online Tunnelling Services:
+- Ngrok: https://ngrok.com/
+- Twilo: https://www.twilio.com/
