@@ -1,4 +1,8 @@
 # Links of Tools (Credit to [tjnull](https://github.com/tjnull))
+[tjnull's OSCP guide](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html#section-16-password-cracking)
+
+[Recommended Machines](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview)
+
 Most tools are from tjnull's OSCP blog with some personal additions.
 ## Notetaking Tools
 - Joplin: https://github.com/laurent22/joplin (`sudo apt install joplin` in **Kali Linux**)
@@ -170,3 +174,18 @@ Most tools are from tjnull's OSCP blog with some personal additions.
 ## Online Tunnelling Services:
 - Ngrok: https://ngrok.com/
 - Twilo: https://www.twilio.com/
+## Automating Active Directory Setup
+- ADLab: https://github.com/browninfosecguy/ADLab
+- Automated Lab: https://github.com/AutomatedLab/AutomatedLab
+- MSLab: https://github.com/microsoft/MSLab
+- Invoke-ADLabDeployer: https://github.com/outflanknl/Invoke-ADLabDeployer
+- Active Directory User Setup: https://github.com/bjiusc/Active-Directory-User-Setup-Script
+## AD Enummeration
+- Active Directory Enumeration with Powershell: https://www.exploit-db.com/docs/english/46990-active-directory-enumeration-with-powershell.pdf
+- Active Directory Exploitation Cheat Sheet: https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet#domain-enumeration
+- Powersploit: https://github.com/PowerShellMafia/PowerSploit
+## AD Persistence and Lateral Movement
+- ADRecon: https://github.com/sense-of-security/ADRecon
+- Kerbrute: https://github.com/ropnop/kerbrute
+- Rubeus: https://github.com/GhostPack/Rubeus
+- Impacket: https://github.com/SecureAuthCorp/impacket
