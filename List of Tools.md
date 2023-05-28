@@ -129,3 +129,24 @@ Most tools are from tjnull's OSCP blog with some personal additions.
 - LinEnum: https://github.com/rebootuser/LinEnum
 - Linux Exploit Suggester 2: https://github.com/jondonas/linux-exploit-suggester-2
 - LinPEAS: [https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
+## Offline Tools for Password Cracking:
+- Hashcat: https://hashcat.net/hashcat/ Sample Hashes to test with Hashcat: https://hashcat.net/wiki/doku.php?id=example_hashes
+- John the Ripper: https://www.openwall.com/john/
+- Metasploit Unleashed using John the Ripper with Hashdump: https://www.offensive-security.com/metasploit-unleashed/john-ripper/
+## Online Tools for Password Cracking:
+- THC Hydra: https://github.com/vanhauser-thc/thc-hydra
+- Crowbar: https://github.com/galkan/crowbar
+## Wordlist generators:
+- Cewl: https://digi.ninja/projects/cewl.php
+- Crunch: https://tools.kali.org/password-attacks/crunch
+- Cupp (In Kali Linux): https://github.com/Mebus/cupp
+## Tools to check the hash type:
+- Hash-Identifier: https://github.com/psypanda/hashID
+## Tools to dump for hashes:
+- Mimikatz: https://github.com/gentilkiwi/mimikatz
+- Mimipenguin: https://github.com/huntergregal/mimipenguin
+- Pypykatz: https://github.com/skelsec/pypykatz
+## Wordlists:
+- In Kali: /usr/share/wordlists
+- Seclists: apt-get install seclists You can find all of his password lists here: https://github.com/danielmiessler/SecLists/tree/master/Passwords
+- Xajkep Wordlists: https://github.com/xajkep/wordlists
